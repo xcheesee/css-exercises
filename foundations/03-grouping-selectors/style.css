@@ -1,0 +1,14 @@
+.mamaco,
+.deoculos {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', sans-serif;
+}
+
+.mamaco {
+    background-color: black;
+    color: white;
+}
+
+.deoculos {
+    background-color: yellow;
+}

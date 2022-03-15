@@ -1,0 +1,19 @@
+.the-class {
+    background-color: pink;
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+.but-cooler {
+    font-size: 24px;
+}
+
+#the-id {
+    color: blue;
+    font-size: 36px;
+}
+
+#other-id {
+    background-color: greenyellow;
+    font-size: 24px;
+    font-weight: bold;
+}
